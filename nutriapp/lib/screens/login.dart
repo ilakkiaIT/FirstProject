@@ -14,8 +14,8 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("Nutritionist App"),
-        backgroundColor: Colors.cyan,
+        title: Text("Nutritionist Application"),
+        backgroundColor: Colors.blue,
       ),
       body: Row(
         mainAxisAlignment: MainAxisAlignment.center,
