@@ -15,7 +15,7 @@ class _LoginPageState extends State<LoginPage> {
       appBar: AppBar(
         centerTitle: true,
         title: Text("Nutritionist Application"),
-        backgroundColor: Colors.orangeAccent,
+        backgroundColor: Colors.green,
       ),
       body: Row(
         mainAxisAlignment: MainAxisAlignment.center,
