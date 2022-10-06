@@ -23,11 +23,11 @@ class _LoginPageState extends State<LoginPage> {
           Expanded(
             child: Container(
                 width: MediaQuery.of(context).size.width * 0.75,
-                decoration: BoxDecoration(color: Colors.pink)),
+                decoration: BoxDecoration(color: Colors.orange)),
           ),
           Container(
               width: MediaQuery.of(context).size.width * 0.25,
-              decoration: BoxDecoration(color: Colors.lightBlue)),
+              decoration: BoxDecoration(color: Colors.blueGrey)),
         ],
       ),
     );
