@@ -14,7 +14,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("Nutritionist Application"),
+        title: Text("Nutri flutter app"),
         backgroundColor: Colors.green,
       ),
       body: Row(
